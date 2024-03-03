@@ -1,7 +1,9 @@
 # Inventory
 
 Hasil modifikasi dari:
+
 Sumber Code: https://drive.google.com/file/d/1Olv9GPdLu0N8LMMQSlEEO_0EjgWGmc8O/view
+
 Sumber vidio: https://youtu.be/GBbwYjXDBz0?si=FaQkhzKCMkEs3T2C
 
 Saya modifikasi:
